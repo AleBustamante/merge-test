@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Alejandro Bustamante",
+    "commit": {
+      "date": "2025-05-20T02:33:36.000Z",
+      "message": "1-alejandro",
+      "url": "https://github.com/AleBustamante/merge-test/commit/HEAD"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 5,
+      "deletions": 2,
+      "date": "2025-05-20"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
